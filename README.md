@@ -52,6 +52,5 @@ The project analyzes the construction of statistical indices using multidimensio
 Once archived via Zenodo, please cite this work using the DOI.  
 Example:
 
-Bacasma, C. (2025). A Multidimensional Scaling Analysis of Statistical Index Construction using Major Economic Indicators in the Philippines. Zenodo. https://doi.org/[DOI]
-
+Bacasma, C. (2025). A Multidimensional Scaling Analysis of Statistical Index Construction using Major Economic Indicators in the Philippines. Zenodo. https://doi.org/10.5281/zenodo.17587302
 
